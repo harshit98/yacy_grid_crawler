@@ -12,7 +12,7 @@ MCP but you can configure one yourself.
 
 ## What it does
 
-The Crawler then does the following:
+The Crawler then does the following:das
 
 ```
 while (a Crawl Contract is in the queue crawler_pending) do
