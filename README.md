@@ -12,9 +12,9 @@ MCP but you can configure one yourself.
 
 ## What it does
 
-The Crawler then does the following:
+The Crawler then does the following:da
 
-```
+```sa
 while (a Crawl Contract is in the queue crawler_pending) do
    - read the target url from the contract
    - check against the search index if the url is registered in the transaction index as 'to-be-parsed'. If not, continue
