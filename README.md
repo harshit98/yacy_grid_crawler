@@ -10,7 +10,7 @@ The Crawler is a microservices which can be deployed i.e. using Docker. When the
 is started, it searches for a MCP and connect to it. By default the local host is searched for a
 MCP but you can configure one yourself.
 
-## What it does
+## What it does ah
 
 The Crawler then does the following:
 
