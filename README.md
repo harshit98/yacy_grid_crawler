@@ -12,7 +12,7 @@ MCP but you can configure one yourself.
 
 ## What it does ah
 
-The Crawler then does the following:das
+The Crawler then does the following : HI
 
 ```sa
 while (a Crawl Contract is in the queue crawler_pending) do
@@ -61,7 +61,7 @@ The microservices will create these indexes on their own using the MCP component
 ## Installation: Download, Build, Run
 At this time, yacy_grid_crawler is not provided in compiled form, you easily build it yourself. It's not difficult and done in one minute! The source code is hosted at https://github.com/yacy/yacy_grid_crawler, you can download it and run loklak with:
 
-    > git clone --recursive https://github.com/yacy/yacy_grid_crawler.git
+    > Git clone --recursive https://github.com/yacy/yacy_grid_crawler.git
 
 If you just want to make a update, do the following
 
